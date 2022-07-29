@@ -1,0 +1,16 @@
+{
+    "list": [
+        {
+            "type": "launcher",
+            "title": "clockTube",
+            "file": "https://raw.githubusercontent.com/TheMainGeek/warehouse/master/Apps/clockTube/file/clockTube.tar.gz",
+            "shots": "https://raw.githubusercontent.com/TheMainGeek/warehouse/master/Apps/clockTube/shots/clockTube.png"
+        },
+        {
+            "type": "launcher",
+            "title": "GameShellReader",
+            "file": "https://raw.githubusercontent.com/TheMainGeek/warehouse/master/Apps/GameShellReader/file/GameShellReader.tar.gz",
+            "shots": "https://raw.githubusercontent.com/TheMainGeek/warehouse/master/Apps/GameShellReader/shots/GameShellReader.png"
+        }
+    ]
+}

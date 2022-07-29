@@ -1,0 +1,9 @@
+{
+    "list": [
+        {
+            "title": "Apps",
+            "file": "https://raw.githubusercontent.com/TheMainGeek/warehouse/master/Apps/index.json",
+            "type": "dir"
+        }
+    ]
+}
